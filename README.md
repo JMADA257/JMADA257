@@ -9,6 +9,8 @@
 - 🎓   University of Denver Full Stack Coding Course graduate 🚀
 - 🍹   Former bartender, now aspiring Junior Developer 💻
 - 🌱   Actively pursuing opportunities in software development 🔍
+  
+<h3><a href="https://main--musical-faun-eec503.netlify.app/">My portfolio!</a></h3>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
