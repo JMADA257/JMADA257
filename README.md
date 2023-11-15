@@ -4,11 +4,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-🇺🇸   US Marine Corps veteran 🎖️
-🏠   Delaware native 💼
-🎓   University of Denver Full Stack Coding Course graduate 🚀
-🍹   Former bartender, now aspiring Junior Developer 💻
-🌱   Actively pursuing opportunities in software development 🔍
+- 🇺🇸   US Marine Corps veteran 🎖️
+- 🏠   Delaware native 💼
+- 🎓   University of Denver Full Stack Coding Course graduate 🚀
+- 🍹   Former bartender, now aspiring Junior Developer 💻
+- 🌱   Actively pursuing opportunities in software development 🔍
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
