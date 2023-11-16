@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1501082183835-b7b33db89c3f?w=1500&h=1250=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c25vdyUyMG1vdW50YWluJTIwcGFub3JhbWF8ZW58MHx8MHx8fDA%3D" />
+</p>
 
-
-<h2> Hey there! I'm Jordan.</h2>
+<h2> Hello there! I'm Jordan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -10,7 +12,6 @@
 - 🍹   Former bartender, now aspiring Junior Developer 💻
 - 🌱   Actively pursuing opportunities in software development 🔍
   
-<h3><a href="https://main--musical-faun-eec503.netlify.app/">My portfolio!</a></h3>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -21,11 +22,22 @@
   ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![JEST](https://img.shields.io/badge/-JEST-333333?style=flat&logo=jest)
+  
 
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
+  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+  ![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphQL-333333?style=flat&logo=apollographql)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui)
   
 - ⚙️ &nbsp;
   ![LinkedIN](https://img.shields.io/badge/-LinkedIN-333333?style=flat&logo=linkedin)
@@ -34,7 +46,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<img src="https://simpleicons.now.sh/javascript/F7DF1E" alt="JavaScript" width="40" height="40"> <img src="https://simpleicons.now.sh/react/FF4154" alt="React" width="40" height="40"> <img src="https://simpleicons.now.sh/mongodb/47A248" alt="MongoDB" width="40" height="40"> <img src="https://simpleicons.now.sh/bootstrap/7952b3" alt="Bootstrap" width="40" height="40"> <img src="https://simpleicons.now.sh/express/ffffff" alt="express" width="40" height="40"> <img src="https://simpleicons.now.sh/nodedotjs/339933" alt="Node.js" width="40" height="40"> <img src="https://simpleicons.now.sh/graphql/e10098" alt="GraphQL" width="40" height="40"> <img src="https://simpleicons.now.sh/apollographql/2196f0" alt="Apollo" width="40" height="40"> <img src="https://simpleicons.now.sh/mysql/4479a1" alt="mysql" width="40" height="40"> <img src="https://simpleicons.now.sh/npm/cb3837" alt="npm" width="40" height="40"> <img src="https://simpleicons.now.sh/vite/646cff" alt="vite" width="40" height="40"> <img src="https://simpleicons.now.sh/heroku/430098" alt="Heroku" width="40" height="40"> <img src="https://simpleicons.now.sh/netlify/00C7B7" alt="Netlify" width="40" height="40"> <img src="https://simpleicons.now.sh/insomnia/4000BF" alt="Insomnia" width="40" height="40"> <img src="https://simpleicons.now.sh/mui/007fff" alt="MUI" width="40" height="40">
+<h3><a href="https://main--musical-faun-eec503.netlify.app/">My portfolio!</a></h3>
 
 <br/>
 
